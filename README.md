@@ -40,7 +40,7 @@
 
 -Organized frontend-backend project structure
 
-### Application Properties
+### Application Properties(I have provided mine in the back end code)
 
 spring.datasource.url=jdbc:postgresql://localhost:5432/tododb
 
