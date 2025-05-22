@@ -43,12 +43,15 @@
 ### Application Properties
 
 spring.datasource.url=jdbc:postgresql://localhost:5432/tododb
+
 spring.datasource.username=your_postgres_username
+
 spring.datasource.password=your_postgres_password
 
 spring.jpa.hibernate.ddl-auto=update
 
 cohere.api.key=your_cohere_api_key
+
 slack.webhook.url=https://hooks.slack.com/services/your/webhook/url
 
 ### Notes
